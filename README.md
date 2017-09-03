@@ -1,6 +1,6 @@
 # rapsberry-pi-aiy-dc-motor
 
-http://www.recantha.co.uk/blog/?p=17483
+https://www.raspberrypi.org/magpi/motor-aiy-voice-pi/
 
 The AIY Projects Kit given away free with The MagPi issue 57 went down a storm. In previous issues, The MagPi has covered various ways of extending the kit using some of the additional functionality on the HAT. This time, they’ve published online a tutorial that shows you how to connect up a DC motor to the HAT with an accompanying power supply. All the code is there too and you can read up on it here. Still no news on when more of the kits will be available, which is a shame. The nearest board to the AIY HAT is the pi-topPULSE but that doesn’t have the extra functionality for robotics etc. One can only hope someone decides to take the AIY kit on as a going concern in the near future otherwise I fear its day will pass!
 
